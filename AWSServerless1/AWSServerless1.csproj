@@ -6,6 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AWSSDK.Kinesis" Version="3.3.5.2" />
+    <PackageReference Include="AWSSDKCPP-Kinesis" Version="1.4.20131202.14" />
+    <PackageReference Include="AWSSDKCPP-Kinesis.symbols" Version="0.12.20131202.12" />
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.3" />
 
     <PackageReference Include="AWSSDK.S3" Version="3.3.16.2" />
